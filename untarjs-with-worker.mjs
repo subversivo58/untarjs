@@ -1,5 +1,5 @@
 /**
- * @license The MIT License (MIT) {@link https://githun.com/subversivo58/untarjs/blob/master/LICENSE LICENSE}
+ * @license The MIT License (MIT) {@link https://github.com/subversivo58/untarjs/blob/master/LICENSE LICENSE}
  * @copyright Copyright (c) 2015 Sebastian Jørgensen | Copyright (c) 2019 Lauro Moraes
  * @see https://github.com/InvokIT/js-untar
  */
