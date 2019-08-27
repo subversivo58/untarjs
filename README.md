@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/gh/subversivo58/untarjs/badge?style=rounded)](https://www.jsdelivr.com/package/gh/subversivo58/untarjs)
+
 ## UntarJS
 
 Library for reading tar files in the browser
@@ -19,6 +21,12 @@ I needed to unzip in the browser some `.tgz` (tarball) files from modules publis
 Unfortunately popular libraries were not very helpful in solving my "specific" problem.
 
 [JSZip](https://github.com/Stuk/jszip) didn't seem to solve it, [pako](https://github.com/nodeca/pako) alone didn't help me much, so I found [js-untar](https://github.com/InvokIT/js-untar) and the story changed 😀
+
+-----
+
+### Feature:
+
+Tiny source ... untarjs-with-worker.min.js contains 4.1Kb (1.8Kb gzipped)
 
 -----
 
