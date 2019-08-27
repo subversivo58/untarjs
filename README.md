@@ -96,7 +96,7 @@ package/
 The expected result would be (output on `console.log`):
 
 ```console
-(2) [
+(3) [
     0: {
         buffer: ArrayBuffer(1936) {}
         checksum: 11547
