@@ -180,6 +180,8 @@ Enjoy
 
 ### Notes:
 
+> Adapted pako_inflate.js 1.0.10 to ES6 module: [pako_inflate.min.mjs](https://gist.github.com/subversivo58/59433c016b06f17f20545fb8cc7f88b3)
+
 Methods `.blob()`, `.getBlob()`, `.readAsString()` and `.readAsJSON()` from the original library ([js-untar](https://github.com/InvokIT/js-untar)) were removed in this adaptation.
 
 You must implement your own logic to manipulate the file buffer for desired output.
